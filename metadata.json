@@ -1,0 +1,7 @@
+{
+  "name": "AlertGuard - Intelligent Alert Fatigue Reducer",
+  "description": "AI-powered alert deduplication & semantic grouping engine using MERN, LangChain embeddings, and LangGraph agent triage to reduce alert fatigue by up to 98%.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
